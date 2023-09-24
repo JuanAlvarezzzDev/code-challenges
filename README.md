@@ -19,7 +19,7 @@ El repositorio está organizado en las siguientes carpetas:
 Para acceder a la lista completa de ejercicios en cada lenguaje, puedes utilizar los siguientes enlaces:
 
 - [Ejercicios en PHP](PHP/README.md)
-- [Ejercicios en JavaScript (JS)](JS/README.md)
+- [Ejercicios en JavaScript (JS)](JavaScript/README.md)
 
 ## Lista de Ejercicios
 
