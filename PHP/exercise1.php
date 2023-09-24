@@ -6,7 +6,7 @@ class Empleado
     /*
    Principio de Abstraccion
    Modificadores de acceso:
-   protected acceso desde la instancia, se puede modificar y acceder
+   Public acceso desde la instancia, se puede modificar y acceder
    protected solo se puede acceder y modificar desde la misma clase con metodos
    */
     protected $nombre;
