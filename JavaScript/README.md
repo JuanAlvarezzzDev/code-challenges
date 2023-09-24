@@ -1,7 +1,7 @@
 ## Lista de Ejercicios🎈
 
-1. [Mostrar Día y Hora Actual](JavaScript/exercise1)
-2. [Calcular Area Triangulo](JavaScript/exercise2)
-3. [Rotar Palabra](JavaScript/exercise3)
-4. [Clonar Objeto](JavaScript/exercise4)
-5. [¿Es Bisiesto?](JavaScript/exercise5)
+1. [Mostrar Día y Hora Actual](exercise1)
+2. [Calcular Area Triangulo](exercise2)
+3. [Rotar Palabra](exercise3)
+4. [Clonar Objeto](exercise4)
+5. [¿Es Bisiesto?](exercise5)
