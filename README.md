@@ -7,20 +7,7 @@
 
 Este repositorio contiene una colección de ejercicios de programación en diferentes lenguajes, **incluyendo PHP y JavaScript.** Los ejercicios van desde los más simples hasta desafíos de lógica más complejos.
 
-## Estructura del Repositorio
-
-Code Challenges/
-│
-├── JavaScript/
-│ ├── exercise.js
-│ └── README.md
-│
-├── PHP/
-│ ├── exercise.php
-│ └── README.md
-│
-└── README.md
-
+## Estructura del Repositorio:
 El repositorio está organizado en las siguientes carpetas:
 
 - **PHP**: En esta carpeta, encontrarás ejercicios resueltos en PHP. Cada ejercicio está meticulosamente documentado, proporcionando una descripción detallada del problema y una explicación completa de la solución implementada.
