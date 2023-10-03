@@ -9,5 +9,5 @@ for(i=0; i < triangle.length; i++){
 
 let area = Math.sqrt(semiperimeter * (semiperimeter -  triangle[0]) * (semiperimeter - triangle[1]) * (semiperimeter - triangle[2]))
 
-console.log(area);
+console.log(area)
 
