@@ -14,12 +14,15 @@ El repositorio está organizado en las siguientes carpetas:
 
 - **JavaScript (JS)**: En esta carpeta, encontrarás ejercicios resueltos en JavaScript. Al igual que en la carpeta de PHP, cada ejercicio está documentado para ayudarte a comprender la solución y el enfoque utilizado.
 
+- **C#**: En esta carpeta, encontrarás ejercicios resueltos en C#. Cada ejercicio está meticulosamente documentado, proporcionando una descripción detallada del problema y una explicación completa de la solución implementada.
+
 ## Navegación Rápida
 
 Para acceder a la lista completa de ejercicios en cada lenguaje, puedes utilizar los siguientes enlaces:
 
 - [Ejercicios en PHP](PHP/README.md)
 - [Ejercicios en JavaScript (JS)](JavaScript/README.md)
+- [Ejercicios en C#](Csharp/README.md)
 
 ## Lista de Ejercicios
 
