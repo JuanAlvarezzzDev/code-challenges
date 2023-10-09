@@ -7,3 +7,4 @@
 5. [¿Es Bisiesto?](exercise5.js)
 6. [¿Falso Verdadero?](exercise6.js)
 7. [process En Node😎](exercise7.js)
+7. [cálculo de la letra del Documento Nacional de Identidad (DNI)](exercise8.js)
